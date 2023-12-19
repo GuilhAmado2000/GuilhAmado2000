@@ -6,8 +6,8 @@
 
 ### GitHub Stats
 
-### ![Amado GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhAmado2000&show_icons=true&theme=dark)
-<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhAmado2000">
+![Amado GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhAmado2000&show_icons=true&theme=dark)
+
 <hr/>
 
 ### &nbsp; Skills
