@@ -7,7 +7,7 @@
 ### GitHub Stats
 
 ### ![Amado GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhAmado2000&show_icons=true&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhAmado2000)](https://github.com/GuilhAmado2000/github-readme-stats)
+<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhAmado2000">
 <hr/>
 
 ### &nbsp; Skills
