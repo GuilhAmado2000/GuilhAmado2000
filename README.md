@@ -11,6 +11,30 @@
 <hr/>
 
 ### &nbsp; Skills
+<style>
+  .tech-category {
+    margin: 20px 0;
+  }
+
+  .tech-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+
+  .tech-icons {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .tech-icons img {
+    height: 50px;
+  }
+</style>
+
+
 <div>
   <div class="tech-category">
     <div class="tech-title">🌐 Web Browser</div>
@@ -55,26 +79,3 @@
     </div>
   </div>
 </div>
-
-<style>
-  .tech-category {
-    margin: 20px 0;
-  }
-
-  .tech-title {
-    font-weight: bold;
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-  }
-
-  .tech-icons {
-    display: flex;
-    gap: 15px;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-
-  .tech-icons img {
-    height: 50px;
-  }
-</style>
