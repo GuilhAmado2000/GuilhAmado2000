@@ -40,7 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostGRE" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
-    <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Others</h6>
+    <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deploy</h6>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="50" />
     <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistics</h6>
