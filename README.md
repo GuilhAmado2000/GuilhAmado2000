@@ -6,7 +6,7 @@
 
 ### GitHub Stats
 
-![Amado GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhAmado2000&show_icons=true&theme=dark)
+![Amado GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhAmado2000&show_icons=true&theme=dark&cache_seconds=1800)
 
 <hr/>
 
