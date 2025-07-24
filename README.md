@@ -12,13 +12,17 @@
 
 ### &nbsp; Skills
 <div style="display: inline_block">
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Browser</p>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Browser</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vuejs" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" alt="Vuetify" height="50" />
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programmer</p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" />
